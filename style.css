@@ -1,0 +1,35 @@
+body
+{
+    background-color: aqua;
+}
+.test_image_and_result
+{
+    float: left;
+    background-color: lightslategray;
+}
+.img-responsive
+{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.test_image_and_result2
+{
+    background-color: lime;
+}
+.test_image_and_result3
+{
+    background-color: mediumturquoise;
+}
+.test_image_and_result4
+{
+    background-color: palegreen;
+}
+.test_image_and_result5
+{
+    background-color: royalblue;
+}
+.heading1
+{
+    background-color: yellow;
+}
